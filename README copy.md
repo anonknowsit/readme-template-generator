@@ -25,7 +25,7 @@ This Visual Studio Code extension allows users to quickly generate README.md tem
 3. Choose either "DevOps Engineer" or "Software Engineer" template
 4. The README.md file will be created in the selected folder
 
-<br>
+<br >
 
 ![Alt Text](https://raw.githubusercontent.com/anonknowsit/readme-template-generator/main/Animation.gif)
 
