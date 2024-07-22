@@ -14,7 +14,7 @@ This Visual Studio Code extension allows users to quickly generate README.md tem
 ## Installation
 1. Open Visual Studio Code
 2. Go to the Extensions view (Ctrl+Shift+X or Cmd+Shift+X on macOS)
-3. Search for "README Generator for Engineers"
+3. Search for "README Template Generator"
 4. Click Install
 
 ## Usage
