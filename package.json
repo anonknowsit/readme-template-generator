@@ -8,7 +8,7 @@
   "publisher": "Anonknowsit",
   "icon": "readme-template-generator.jpeg",
   "description": "This extension will create a README.md template file for either a DevOps engineer or a software engineer.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.91.0"
   },
